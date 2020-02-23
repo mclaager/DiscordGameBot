@@ -1,0 +1,8 @@
+{
+"name": "greeter-bot",
+"version": "1.0.0",
+"description": "Description",
+"main": "bot.js",
+"author": "Author",
+"dependencies": {}
+}
